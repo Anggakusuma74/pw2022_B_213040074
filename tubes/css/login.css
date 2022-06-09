@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  body {
+    background-color: lightgreen;
+  }
+  #bg-login {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  .box-login {
+    width: 400px;
+    min-height: 300px;
+    border: 3px solid #FF06B7;
+    background-color: #fff;
+    padding: 30px;
+    box-sizing: border-box;
+  }
+  .box-login h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .input-control {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  .btn {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }

@@ -1,0 +1,16 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e0ffff;
+} 
+
+#product {
+    background-color: #e0ffff;
+}
+section {
+    padding-top: 10rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
